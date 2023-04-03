@@ -53,5 +53,8 @@
       "style": "module",
       "parser": "typescript"
     }
+  },
+  "volta": {
+    "node": "14.21.3"
   }
 }
